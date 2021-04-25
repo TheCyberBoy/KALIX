@@ -69,3 +69,8 @@ __START__ :
 - From this option you can start installing kali linux in your android.
 
 ## SCREEN SHOTS [Termux]
+<br>
+<p align="center">
+<img width="50%" src="https://user-images.githubusercontent.com/49580304/96665195-32a15780-1309-11eb-9268-2375c6227661.jpg"/>
+<img width="45%" src="https://user-images.githubusercontent.com/49580304/96665196-3339ee00-1309-11eb-96ae-9fe719695d5e.jpg"/>
+</p>

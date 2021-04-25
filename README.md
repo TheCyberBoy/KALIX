@@ -32,7 +32,7 @@ Kalix is a bash based script which automatically installs kali linux in termux w
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Adityasinghadi48/KALIX`
+* `git clone https://github.com/TheCyberBoy/KALIX`
 * `cd $HOME`
 * `ls`
 * `cd Kalix`

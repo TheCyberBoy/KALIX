@@ -1,7 +1,9 @@
 # KALIX
 Kali linux virtual machine termux 
 
-<img src="https://i.ibb.co/w01RyNY/kali.jpg" alt="kali" border="0">## ABOUT TOOL :
+<img src="https://i.ibb.co/w01RyNY/kali.jpg" alt="kali" border="0">
+
+## ABOUT TOOL :
 
 Kalix is a bash based script which automatically installs kali linux in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
